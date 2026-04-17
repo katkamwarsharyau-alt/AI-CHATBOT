@@ -27,7 +27,6 @@ This project is an AI chatbot that helps students with academic and administrati
 
 ## 👨‍💻 Author
 senors squad
-## 🔗 GitHub Link
 
 
 ## 🎯 Use Case
